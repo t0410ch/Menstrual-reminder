@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mybutton" type="id">mybutton</item>
+    <item name="qqmybutton" type="id">mybutton1</item>
+
+</resources>
